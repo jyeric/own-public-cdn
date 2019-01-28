@@ -1,9 +1,0 @@
-{
-  "name": "own-public-cdn",
-  "version": "1.0.1",
-  "description": "jsDelivr",
-  "main": "index.js",
-  "repository": "https://github.com/jyeric/own-public-cdn",
-  "author": "jyeric <jyeric1@126.com>",
-  "license": "none"
-}
