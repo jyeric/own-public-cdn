@@ -114,7 +114,8 @@ if(!norunFlag){
 		initTips();
 	
 		var text;
-	
+	)();
+		
 	liveTlakTimer = setInterval(function(){
 		showHitokoto();
 	},15000);
