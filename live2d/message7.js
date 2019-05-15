@@ -445,7 +445,7 @@ if(!norunFlag){
 				clearInterval(liveTlakTimer);
 				liveTlakTimer = null;
 			}
-			histoireStartTimer++
+			histoireStartTimer++;
 		},1000);
 
 	}
