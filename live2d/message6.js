@@ -446,7 +446,7 @@ if(!norunFlag){
 				liveTlakTimer = null;
 			}
 			histoireStartTimer++
-		},1000)
+		},1000);
 
 	}
 }
