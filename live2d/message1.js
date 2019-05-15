@@ -447,5 +447,5 @@ if(!norunFlag){
 			histoireStartTimer++
 		},1000)
 
-	});
+	};
 }
