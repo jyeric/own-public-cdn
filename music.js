@@ -36,7 +36,7 @@ const ap = new APlayer({
         name: 'Only my railgun',
         artist: 'Fripside',
         url: 'https://getmusic.ga/Music/FripSide-Only%20My%20Railgun.flac',
-        cover: 'https://i.loli.net/2019/06/07/5cf9ad69052b182190.jpg',
+        cover: 'https://i.loli.net/2019/06/08/5cfb3cbee219e19246.jpg',
         lrc: 'https://getmusic.ga/MusicLrc/only%20my%20railgun-fripSide.lrc',
       }
     ]
