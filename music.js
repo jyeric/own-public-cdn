@@ -38,6 +38,13 @@ const ap = new APlayer({
         url: 'https://getmusic.ga/Music/FripSide-Only%20My%20Railgun.flac',
         cover: 'https://i.loli.net/2019/06/08/5cfb3cbee219e19246.jpg',
         lrc: 'https://getmusic.ga/MusicLrc/only%20my%20railgun-fripSide.lrc',
+      },
+      {
+        name: '达拉崩吧',
+        artist: '洛天依、言和',
+        url: 'https://getmusic.ga/Music/%E8%BE%BE%E6%8B%89%E5%B4%A9%E5%90%A7-%E6%B4%9B%E5%A4%A9%E4%BE%9D.mp3',
+        cover: 'https://s2.ax1x.com/2019/06/08/VByRI0.jpg',
+        lrc: 'https://getmusic.ga/MusicLrc/%E8%BE%BE%E6%8B%89%E5%B4%A9%E5%90%A7-%E6%B4%9B%E5%A4%A9%E4%BE%9D%2C%E8%A8%80%E5%92%8C.lrc',
       }
     ]
 });
