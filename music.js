@@ -1,7 +1,6 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
-    autoplay: true,
     lrcType: 3,
     audio: [
       {
