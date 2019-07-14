@@ -8,7 +8,7 @@ const ap = new APlayer({
         artist: 'OneRepublic',
         url: 'https://od.lk/s/NzNfMTQxOTgyNjZf/apologize.mp3',
         cover: 'https://i.loli.net/2019/06/05/5cf79ea9046c092585.jpg',
-        lrc: 'https://od.lk/s/NzNfMTQxOTgyNzJf/apologize.lrc',
+        lrc: 'https://blog.likecoding.ooo/music/apologize.lrc',
       },
       {
         name: 'Counting stars',
