@@ -9,7 +9,7 @@ const ap = new APlayer({
       {
         name: '病名は愛だった',
         artist: 'Neru/鏡音リン/鏡音レン',
-        url: 'http://music.163.com/song/media/outer/url?id=505474379.mp3',
+        url: 'https://music.163.com/song/media/outer/url?id=505474379.mp3',
         cover: 'https://i.loli.net/2019/06/07/5cf9abb8ca8ca95762.jpg',
         lrc: 'https://likecoding.tech/music/%E7%97%85%E5%90%8D%E3%81%AF%E6%84%9B%E3%81%A0%E3%81%A3%E3%81%9F.lrcc',
       },
@@ -23,7 +23,7 @@ const ap = new APlayer({
       {
         name: '膜你抄',
         artist: 'Menci/24OI',
-        url: 'http://music.163.com/song/media/outer/url?id=459434585.mp3',
+        url: 'https://music.163.com/song/media/outer/url?id=459434585.mp3',
         cover: 'https://ae01.alicdn.com/kf/H349ed76e5e5148e4b4602bc958695d7d5.png',
         lrc: 'https://likecoding.tech/music/%E8%86%9C%E4%BD%A0%E6%8A%84.lrc',
       }
